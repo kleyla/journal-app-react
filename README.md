@@ -12,3 +12,5 @@ Otros:
 ```
 npm install react-router-dom
 ```
+
+https://cdnjs.com/libraries/font-awesome
