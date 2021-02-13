@@ -4,6 +4,13 @@ import { types } from "../types/types";
 { uid: dfsdf4156d,
 name: "Karen"}
 */
+// const initialState = {
+//   uid: 123,
+//   name: "karen",
+//   dir: {
+//     nro: 124,
+//   },
+// };
 
 export const authReducer = (state = {}, action) => {
   switch (action.type) {

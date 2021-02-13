@@ -39,3 +39,7 @@ https://react-redux.js.org/
 ```
 npm install react-redux redux
 ```
+
+Para usar el "Redux devtools extension" se debe aumentar una linea a; createStore:
+
+https://github.com/zalmoxisus/redux-devtools-extension#usage
