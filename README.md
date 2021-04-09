@@ -55,3 +55,9 @@ Para validaciones: https://www.npmjs.com/package/validator
 ```
 npm i validator
 ```
+
+https://sweetalert2.github.io/
+
+```
+npm install sweetalert2
+```
