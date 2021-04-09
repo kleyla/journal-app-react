@@ -43,3 +43,15 @@ npm install react-redux redux
 Para usar el "Redux devtools extension" se debe aumentar una linea a; createStore:
 
 https://github.com/zalmoxisus/redux-devtools-extension#usage
+
+https://www.npmjs.com/package/redux-thunk
+
+```
+npm install --save redux-thunk
+```
+
+Para validaciones: https://www.npmjs.com/package/validator
+
+```
+npm i validator
+```
