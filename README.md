@@ -61,3 +61,15 @@ https://sweetalert2.github.io/
 ```
 npm install sweetalert2
 ```
+
+https://momentjs.com/
+
+```
+npm install moment --save
+```
+
+https://cloudinary.com/
+
+react-journal
+
+https://api.cloudinary.com/v1_1/dmakd1ykk
