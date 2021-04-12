@@ -44,7 +44,7 @@ Para usar el "Redux devtools extension" se debe aumentar una linea a; createStor
 
 https://github.com/zalmoxisus/redux-devtools-extension#usage
 
-https://www.npmjs.com/package/redux-thunk
+Middleware: https://www.npmjs.com/package/redux-thunk
 
 ```
 npm install --save redux-thunk
@@ -73,3 +73,25 @@ https://cloudinary.com/
 react-journal
 
 https://api.cloudinary.com/v1_1/dmakd1ykk
+
+## TEST
+
+https://enzymejs.github.io/enzyme/
+
+https://www.npmjs.com/package/enzyme-to-json
+
+```
+npm i --save-dev enzyme
+npm install --save-dev @wojtekmaj/enzyme-adapter-react-17
+npm install --save-dev enzyme-to-json
+```
+
+```
+npm install cloudinary --save-dev
+```
+
+https://www.npmjs.com/package/redux-mock-store
+
+```
+npm install redux-mock-store --save-dev
+```
