@@ -5,12 +5,12 @@ import "firebase/auth";
 console.log(process.env);
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA8t_8wTm64T8UAc_dJjbT_YAVlzVgvyUI",
-  authDomain: "journal-app-react-redux.firebaseapp.com",
-  projectId: "journal-app-react-redux",
-  storageBucket: "journal-app-react-redux.appspot.com",
-  messagingSenderId: "1025993761594",
-  appId: "1:1025993761594:web:84b1a35b1618c8438aa603",
+  apiKey: process.env.REACT_APP_APIKEY,
+  authDomain: process.env.REACT_APP_AUTHDOMAIN,
+  projectId: process.env.REACT_APP_PROJECTID,
+  storageBucket: process.env.REACT_APP_STORAGEBUCKET,
+  messagingSenderId: process.env.REACT_APP_MESSAGINGSENDERID,
+  appId: process.env.REACT_APP_APPID,
 };
 if (process.env.NODE_ENV === "test") {
   // TESTING
