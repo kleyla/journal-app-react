@@ -17,8 +17,7 @@ https://cdnjs.com/libraries/font-awesome
 
 ## REDUX
 
-Que es redux?
-Es un contenedor predecible del estado de nuestra aplicacion.
+**Que es redux?** Es un contenedor predecible del estado de nuestra aplicacion.
 
 <img src="./public/assets/redux/01.png" alt="redux" />
 
